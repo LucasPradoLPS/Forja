@@ -1,4 +1,6 @@
-# Checador de e-mail/DNS (SPF / DMARC / DKIM)
+# Forja
+
+Checador de e-mail/DNS (SPF / DMARC / DKIM).
 
 Consulta os registros DNS públicos de um domínio e aponta configurações que permitem spoofing de e-mail (SPF ausente, DMARC em `p=none`, chaves DKIM fracas etc.).
 
